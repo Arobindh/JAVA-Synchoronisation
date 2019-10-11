@@ -2,7 +2,6 @@
  * Class Monitor
  * To synchronize dining philosophers.
  *
- * @author Serguei A. Mokhov, mokhov@cs.concordia.ca  
  */
 public class Monitor  
 {
